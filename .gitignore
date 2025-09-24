@@ -1,0 +1,21 @@
+# Build
+bin/
+obj/
+
+# Logs
+*.log
+logs/
+
+# User files
+*.user
+*.suo
+
+# VS Code
+.vscode/
+
+# ASP.NET temp
+*.dbmdl
+
+# Frontend
+node_modules/
+dist/

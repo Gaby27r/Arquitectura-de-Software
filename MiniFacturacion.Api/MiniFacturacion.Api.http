@@ -1,0 +1,6 @@
+@MiniFacturacion.Api_HostAddress = http://localhost:5197
+
+GET {{MiniFacturacion.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
